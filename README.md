@@ -2,8 +2,6 @@
 
 A Python simulation of wildfires spreading in a forest, inspired by Nicky Case's Emoji Sim. This project demonstrates cellular automata and environmental modeling.
 
-![Forest Fire Simulation Demo](demo.gif) *(placeholder for actual gif)*
-
 ## Features
 
 - Realistic forest fire propagation model
